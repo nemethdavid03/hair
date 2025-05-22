@@ -180,7 +180,7 @@ export default function Home() {
                 <div className="relative overflow-hidden rounded-xl shadow-lg">
                   <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity z-10"></div>
                   <img
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/row-1-column-1 (1).jpg"
                     alt="Before using ReviveHair"
                     className="rounded-xl w-full h-auto transition-transform group-hover:scale-105 duration-500"
                     width={600}
@@ -201,7 +201,7 @@ export default function Home() {
                 <div className="relative overflow-hidden rounded-xl shadow-lg">
                   <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity z-10"></div>
                   <img
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/row-1-column-2.jpg"
                     alt="After using ReviveHair"
                     className="rounded-xl w-full h-auto transition-transform group-hover:scale-105 duration-500"
                     width={600}
