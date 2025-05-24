@@ -14,7 +14,7 @@ export default function Home() {
     <div className="flex flex-col min-h-screen overflow-hidden">
       <header className="px-4 lg:px-6 h-16 flex items-center justify-between border-b sticky top-0 bg-white/80 backdrop-blur-md z-50">
         <div className="flex items-center gap-2">
-          <span className="font-heading font-bold text-xl text-primary">ReviveHair</span>
+          <span className="font-heading font-bold text-xl text-primary">Siraxx</span>
         </div>
         <nav className="hidden md:flex gap-6">
           <Link className="text-sm font-medium hover:text-primary transition-colors" href="#features">
@@ -77,8 +77,8 @@ export default function Home() {
             <div className="md:w-1/2 relative">
               <div className="absolute inset-0 bg-primary/5 rounded-full filter blur-3xl -z-10"></div>
               <img
-                src="/placeholder.svg?height=600&width=600"
-                alt="ReviveHair Growth Formula"
+                src="/siraxx(2).png"
+                alt="Siraxx Growth Formula"
                 className="rounded-2xl shadow-xl animate-float relative z-10"
                 width={600}
                 height={600}
@@ -109,7 +109,7 @@ export default function Home() {
           <div className="container px-4 md:px-6 mx-auto">
             <div className="flex flex-col items-center justify-center space-y-3 text-center mb-10">
               <Badge className="bg-secondary text-white mb-1">The Science</Badge>
-              <h2 className="text-2xl md:text-4xl font-bold tracking-tight">Why ReviveHair Works When Others Fail</h2>
+              <h2 className="text-2xl md:text-4xl font-bold tracking-tight">Why Siraxx Works When Others Fail</h2>
               <p className="max-w-[800px] text-gray-600 text-base">
                 Our proprietary blend of 27 active ingredients targets hair loss at the root cause.
               </p>
@@ -151,7 +151,7 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center space-y-3 text-center mb-10">
               <Badge className="bg-primary text-white mb-1">Comparison</Badge>
               <h2 className="text-2xl md:text-4xl font-bold tracking-tight">
-                How ReviveHair <span className="text-primary">Compares</span>
+                How Siraxx <span className="text-primary">Compares</span>
               </h2>
               <p className="max-w-[800px] text-gray-600 text-base">
                 See why our complete system outperforms other hair growth solutions on the market.
@@ -181,7 +181,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity z-10"></div>
                   <img
                     src="/row-1-column-1 (1).jpg"
-                    alt="Before using ReviveHair"
+                    alt="Before using Siraxx"
                     className="rounded-xl w-full h-auto transition-transform group-hover:scale-105 duration-500"
                     width={600}
                     height={400}
@@ -192,7 +192,7 @@ export default function Home() {
                 </div>
                 <div className="bg-white p-3 rounded-lg shadow-sm">
                   <p className="text-gray-700 text-sm">
-                    "I was losing hope after trying everything. 8 weeks with ReviveHair changed everything."
+                    "I was losing hope after trying everything. 8 weeks with Siraxx changed everything."
                   </p>
                   <p className="text-xs text-gray-500 mt-1">- Michael, 42</p>
                 </div>
@@ -202,7 +202,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity z-10"></div>
                   <img
                     src="/row-1-column-2.jpg"
-                    alt="After using ReviveHair"
+                    alt="After using Siraxx"
                     className="rounded-xl w-full h-auto transition-transform group-hover:scale-105 duration-500"
                     width={600}
                     height={400}
@@ -260,7 +260,7 @@ export default function Home() {
                   </div>
                   <p className="text-gray-700 text-sm">
                     {i === 1 &&
-                      "After trying countless products with no success, ReviveHair finally gave me the results I was looking for. My hair is noticeably thicker and healthier!"}
+                      "After trying countless products with no success, Siraxx finally gave me the results I was looking for. My hair is noticeably thicker and healthier!"}
                     {i === 2 &&
                       "I was skeptical at first, but within 4 weeks I started seeing new growth in areas that were completely bald. This product is nothing short of miraculous!"}
                     {i === 3 &&
@@ -343,30 +343,30 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center space-y-3 text-center mb-10">
               <Badge className="bg-secondary text-white mb-1">FAQ</Badge>
               <h2 className="text-2xl md:text-4xl font-bold tracking-tight">Common Questions</h2>
-              <p className="max-w-[800px] text-gray-600 text-base">Everything you need to know about ReviveHair.</p>
+              <p className="max-w-[800px] text-gray-600 text-base">Everything you need to know about Siraxx.</p>
             </div>
             <div className="mx-auto max-w-3xl mt-8">
               <Accordion type="single" collapsible className="w-full">
                 {[
                   {
                     q: "How quickly will I see results?",
-                    a: "Most customers begin to notice improvements within 2-4 weeks of consistent use. You'll first notice less shedding, followed by new growth and increased thickness. For optimal results, we recommend using ReviveHair for at least 90 days.",
+                    a: "Most customers begin to notice improvements within 2-4 weeks of consistent use. You'll first notice less shedding, followed by new growth and increased thickness. For optimal results, we recommend using Siraxx for at least 90 days.",
                   },
                   {
-                    q: "Is ReviveHair suitable for all hair types?",
-                    a: "Yes! Our revolutionary formula works effectively on all hair types, textures, and colors. Whether you have straight, wavy, curly, or coily hair, ReviveHair can help improve hair density and overall health.",
+                    q: "Is Siraxx suitable for all hair types?",
+                    a: "Yes! Our revolutionary formula works effectively on all hair types, textures, and colors. Whether you have straight, wavy, curly, or coily hair, Siraxx can help improve hair density and overall health.",
                   },
                   {
                     q: "Are there any side effects?",
-                    a: "ReviveHair is made with natural ingredients and is generally well-tolerated. Some users may experience a pleasant tingling sensation upon application, which indicates increased blood circulation. Unlike prescription treatments, ReviveHair doesn't cause sexual side effects or other serious issues.",
+                    a: "Siraxx is made with natural ingredients and is generally well-tolerated. Some users may experience a pleasant tingling sensation upon application, which indicates increased blood circulation. Unlike prescription treatments, Siraxx doesn't cause sexual side effects or other serious issues.",
                   },
                   {
-                    q: "How do I use ReviveHair?",
+                    q: "How do I use Siraxx?",
                     a: "For best results, apply the serum to a clean, dry scalp once daily, preferably at night. Massage gently for 60 seconds to stimulate blood flow. Take the supplement once daily with food. Consistency is key for optimal results.",
                   },
                   {
-                    q: "What's included in the ReviveHair system?",
-                    a: "The complete ReviveHair system includes our advanced formula serum (2 oz), a 30-day supply of our hair nutrition supplements, a premium scalp massager tool, and our exclusive hair care guide with tips from top dermatologists.",
+                    q: "What's included in the Siraxx system?",
+                    a: "The complete Siraxx system includes our advanced formula serum (2 oz), a 30-day supply of our hair nutrition supplements, a premium scalp massager tool, and our exclusive hair care guide with tips from top dermatologists.",
                   },
                 ].map((item, i) => (
                   <AccordionItem
@@ -389,7 +389,7 @@ export default function Home() {
         <div className="container px-4 md:px-6 mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             <div>
-              <span className="font-heading font-bold text-xl text-white">ReviveHair</span>
+              <span className="font-heading font-bold text-xl text-white">Siraxx</span>
               <p className="mt-3 text-gray-400 text-sm">Transforming hair and confidence since 2020.</p>
               <div className="flex gap-4 mt-4">
                 <a href="#" className="text-gray-400 hover:text-white transition-colors">
@@ -477,7 +477,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-xs text-gray-400">© 2025 ReviveHair. All rights reserved.</p>
+            <p className="text-xs text-gray-400">© 2025 Siraxx. All rights reserved.</p>
             <div className="flex gap-6 mt-3 md:mt-0">
               <Link className="text-xs text-gray-400 hover:text-white transition-colors" href="#">
                 Terms of Service
