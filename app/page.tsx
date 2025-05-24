@@ -77,7 +77,7 @@ export default function Home() {
             <div className="md:w-1/2 relative">
               <div className="absolute inset-0 bg-primary/5 rounded-full filter blur-3xl -z-10"></div>
               <img
-                src="/siraxx(2).png"
+                src="/siraxx.png"
                 alt="Siraxx Growth Formula"
                 className="rounded-2xl shadow-xl animate-float relative z-10"
                 width={600}
